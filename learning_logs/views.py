@@ -2,12 +2,12 @@ from django.shortcuts import render
 
 # Create your views here.
 from django.shortcuts import render
-
+from django.contrib.auth.decorators import login_required
 def index(request):
     """学习笔记的主页"""
     return render(request, 'index.html')
 from .models import Topic
-
+@login_required
 def topics(request):
     """显示所有的主题"""
     topics = Topic.objects.order_by('date_added')

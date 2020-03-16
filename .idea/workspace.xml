@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ba0e70-afcd-4674-b89c-99162c127011" name="Default Changelist" comment="" />
+    <list default="true" id="75ba0e70-afcd-4674-b89c-99162c127011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learning_log.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning_log.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -22,7 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZAZrNNiVIRINkdyZEDcTUUVkTa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,15 +47,28 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\33\learning_log\learning_logs\templates" />
       <recent name="C:\Users\Administrator\Desktop\33\learning_log\learning_log" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="learning_log" type="Python.DjangoServer" factoryName="Django server">
@@ -77,11 +106,23 @@
       <option name="presentableId" value="Default" />
       <updated>1584284056543</updated>
       <workItem from="1584284057724" duration="4269000" />
+      <workItem from="1584327114997" duration="2617000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584286102566">
